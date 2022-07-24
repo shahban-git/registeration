@@ -1,0 +1,51 @@
+.jumbotron{
+    background-color:aqua;
+    padding: 10px 10px ;
+    border-radius: 10px;
+    width: 800px;
+
+    
+}
+
+.card{
+    width: 1000px;
+}
+
+
+nav{
+    background-color: blueviolet;
+    color: azure;
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+}
+
+nav li a{
+    color: rgb(171, 208, 240);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 20px;
+    
+}
+
+nav li a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+.card-head{
+    background-color: bisque;
+    font-weight: bold;
+    padding: 10px;
+    
+}
